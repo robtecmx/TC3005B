@@ -7,8 +7,6 @@ git add .
 
 git commit -m "$MSSG"
 
-git remote add origin https://github.com/robtecmx/TC3005B.git
-
 git push origin master
 
 echo '$User'
