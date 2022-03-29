@@ -13,5 +13,5 @@ print(Myname)
 
 ```
 
-![DiagramaenUML](https://en.wikipedia.org/wiki/Class_diagram#/media/File:UML_diagrams_overview.svg)
+![DiagramaenUML](https://en.wikipedia.org/wiki/Class_diagram#/media/File:Class_Dependency.png)
  
