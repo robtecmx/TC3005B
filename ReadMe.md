@@ -21,5 +21,5 @@ Pruebas realizadas
 
 * Inicio de sesion
 * Conexion a base de datos
-
+* Pago por medio de la API
  
