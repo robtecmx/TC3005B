@@ -13,5 +13,5 @@ print(Myname)
 
 ```
 
-![DiagramaenUML](https://en.wikipedia.org/wiki/Class_diagram#/media/File:Class_Dependency.png)
+![DiagramaenUML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/EntityControlBoundary_Pattern.jpg/360px-EntityControlBoundary_Pattern.jpg)
  
